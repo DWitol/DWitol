@@ -5,9 +5,8 @@
 </div>
 
 - 👀 I’m interested in contributing code to help people
-- 🌱 I’m currently learning artificial intelligence 
-- 💞️ I’m looking to collaborate on charity projects 
-- 📫 How to reach me over Github. 
+- 🌱 I’m currently learning about artificial intelligence 
+- 💞️ I’m looking to collaborate on charity projects
 
 <!---
 DWitol/DWitol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
